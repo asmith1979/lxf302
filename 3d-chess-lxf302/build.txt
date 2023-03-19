@@ -1,0 +1,1 @@
+g++ main.cpp Model.cpp GameController.cpp ./Chess/Board.cpp ./Chess/Game.cpp ./Chess/Gameplay.cpp ./Chess/GameStatus.cpp ./Chess/Move.cpp ./Chess/Piece.cpp ./Chess/Square.cpp -o chessgame -lglut -lGLU -lGL -lglfw

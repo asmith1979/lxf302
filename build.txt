@@ -1,0 +1,1 @@
+g++ testOpenGL.cpp -o firstOpenGlApp -lglut -lGLU -lGL
